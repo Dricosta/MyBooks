@@ -1,0 +1,30 @@
+{
+  "series": [
+    {
+      "id": 2,
+      "name": "Friends",
+      "status": "watching",
+      "genre": "Comédia",
+      "comments": "Bom para descontrair "
+    },
+    {
+      "name": "teste",
+      "status": "watched",
+      "genre": "Comédia",
+      "comments": "rdchgvbjknm",
+      "id": 9
+    },
+    {
+      "name": "the walking dead",
+      "status": "toWatch",
+      "genre": "Drama",
+      "comments": "teste",
+      "id": 10
+    }
+  ],
+  "genres": [
+    "Comédia",
+    "Drama",
+    "Ação"
+  ]
+}
